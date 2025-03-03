@@ -4,7 +4,6 @@ Ladybird contains an experimental, work-in-progress DevTools server. This docume
 the protocol used to communicate with the DevTools client.
 
 ## Using DevTools
-
 The DevTools server may be enabled with the `--devtools` command line flag when launching Ladybird. This flag expects a
 port for the DevTools server to listen on. For example:
 
